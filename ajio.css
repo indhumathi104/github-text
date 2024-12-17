@@ -1,0 +1,25 @@
+.navbar-brand{
+
+    width:130px;
+    height:80px;
+    position: relative;
+    left:30px;
+    top:10px;
+  
+}
+.subtitle{
+    position: absolute;
+    
+   left:500px;
+   top:40px;
+   bottom:0;
+}
+.serach input{
+border-radius:12px;
+padding: 5px;
+}
+.black{
+    background-color: black;
+    height: 90px;
+    width:100vw;
+}

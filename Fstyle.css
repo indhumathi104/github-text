@@ -1,0 +1,164 @@
+ nav{
+    background-color:aliceblue;
+    height: 80px;
+width:100%;
+
+ }
+  h1{
+    color:blue;
+font-size:30px;
+opacity: 0.9;
+      float:left;
+      
+  } 
+.search input{
+    font-size: 20px;
+    background-color: aliceblue;
+    margin: 26px;
+    padding: 10px;
+    width:400px;
+    border-radius: 22px;
+    opacity: 0.4;
+    }
+    
+.head{
+    color: black;
+    font-size: 21px;
+    margin: 20px;
+    float:right;
+    position: relative;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    right:200px;
+    top:2px;
+    text-decoration: none;
+}
+
+.topproductnavbar{
+    height: 110px;
+    display:flex;
+    justify-content: center;
+    padding: 10px 50px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
+.topproductnavbar_nav{
+    height:110px;
+    width:80px;
+    cursor: pointer;
+    flex: 1;
+
+}
+.topproductnavbar_nav img{
+    width:66px;
+    height: 64px;
+    right:5px;
+}
+.topproductnavbar_nav p{
+    font-weight: 510px;
+}
+.thirdcls{
+    height: 270px;
+    width: 100%;
+    display:flex;
+    justify-content:space-evenly;
+}
+.four{
+    height:340px;
+    width: 100%;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+    
+}
+.pro{
+    
+    height: 300px;
+    width: 80%;
+    background-color: white;
+    border: 2px solid rgb(214, 209, 209);
+    padding: 5px;
+    margin: 10px;
+    gap:50px;
+    float: right;
+}
+.opik{
+height: 250px;
+width: 100%;
+}
+.ttpik{
+    height: 250px;
+    width: 100%;
+    }
+    p{
+        text-align: center;
+        margin: 5px;
+        font-size: larger;
+        font-weight: bold;
+    }
+.tpik{
+        height: 230px;
+        width: 100%;
+        }
+  .fpik{
+    height: 250px;
+    width: 100%;
+  }      
+  .ffpik{
+    height: 250px;
+    width: 100%;
+  }
+  .spik{
+    height:300 px;
+    width: 100%;
+  }
+  .subt{
+    height:340px;
+    width: 100%;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+    }
+.sub title{
+    height: 300px;
+    width: 80%;
+    background-color: white;
+    border: 2px solid rgb(214, 209, 209);
+    padding: 5px;
+    margin: 10px;
+    gap:50px;
+    float: right;
+}
+.one{
+    height: 250px;
+    width: 100%; 
+}
+.two{
+    height: 250px;
+    width: 100%;
+    }
+    p{
+        text-align: center;
+        margin: 5px;
+        font-size: larger;
+        font-weight: bold;
+    }
+.three{
+        height: 230px;
+        width: 100%;
+        }
+        .four{
+            height: 250px;
+            width: 100%;
+          }      
+          .five{
+            height: 250px;
+            width: 100%;
+          }
+          .six{
+            height:300 px;
+            width: 100%;
+          }
